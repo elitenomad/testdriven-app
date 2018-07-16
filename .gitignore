@@ -1,4 +1,4 @@
 __pycache__
-users/env
-users/venv
+services/vusers/env
+services/users/venv
 .idea
